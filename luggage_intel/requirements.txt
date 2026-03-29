@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+pandas
+textblob
+streamlit
+plotly
+openpyxl
+langchain>=0.1.0
+langchain-groq>=0.1.0
+langgraph>=0.0.1
+python-dotenv
